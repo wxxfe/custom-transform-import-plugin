@@ -1,0 +1,23 @@
+{
+  "name": "@wxxfe/custom-transform-import-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxxfe/custom-transform-import-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wxxfe/custom-transform-import-plugin/issues"
+  },
+  "homepage": "https://github.com/wxxfe/custom-transform-import-plugin#readme",
+  "dependencies": {
+    "babel-types": "^6.26.0"
+  }
+}
