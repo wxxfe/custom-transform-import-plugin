@@ -1,6 +1,6 @@
 {
-  "name": "@wxxfe/custom-transform-import-plugin",
-  "version": "1.0.0",
+  "name": "@wxxfe/babel-plugin-transform-import",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,5 @@
     "url": "https://github.com/wxxfe/custom-transform-import-plugin/issues"
   },
   "homepage": "https://github.com/wxxfe/custom-transform-import-plugin#readme",
-  "dependencies": {
-    "babel-types": "^6.26.0"
-  }
+  "dependencies": {}
 }
